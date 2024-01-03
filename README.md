@@ -4,6 +4,6 @@ A Low-Powered Wide Area Network for the INSITE Lab Digital Twin project.
 
 ## Hardware Requirements
 1. The Things Indoor LoRaWAN Gateway
-2. HopeRF RFM967 LoRaWAN transciever
-3. Raspberry Pi Pico W micontroller (end device)
+2. HopeRF RFM967 LoRaWAN transceiver
+3. Raspberry Pi Pico W microcontroller (end device)
 4. Sensors (...)
