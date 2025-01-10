@@ -6,4 +6,6 @@ A Low-Powered Wide Area Network for the INSITE Lab Digital Twin project.
 1. The Things Indoor LoRaWAN Gateway
 2. HopeRF RFM967 LoRaWAN transceiver
 3. Raspberry Pi Pico W microcontroller (end device)
-4. Sensors (...)
+4. Sensors  
+   1. BME280 (relative humidity, barometric pressure, and ambient temperature sensor)
+   2. u-blox NEO-6M (GPS module)
